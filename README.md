@@ -39,4 +39,6 @@ http://www.ai-start.com/ml2014/html/week3.html
 
 ![image](https://github.com/Hayden-z/ML/blob/master/images/QQ20181216-183134.png)
         
-给代价函数增加一个正则化的表达式，得到代价函数：     
+给代价函数增加一个正则化的表达式，得到代价函数：
+
+![image](https://github.com/Hayden-z/ML/blob/master/images/QQ20181216-184108.png)
