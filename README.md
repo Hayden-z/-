@@ -2,6 +2,8 @@
 1.单变量线性回归(Linear Regression with One Variable)
 http://www.ai-start.com/ml2014/html/week1.html
 
+
+
 2.多变量线性回归(Linear Regression with Multiple Variables)
 http://www.ai-start.com/ml2014/html/week2.html
 
@@ -15,4 +17,4 @@ http://www.ai-start.com/ml2014/html/week3.html
 
 ![image](https://github.com/Hayden-z/ML/blob/master/images/QQ20181216-183134.png)
         
-      
+给代价函数增加一个正则化的表达式，得到代价函数：     
