@@ -7,3 +7,5 @@ http://www.ai-start.com/ml2014/html/week2.html
 
 3.逻辑回归(Logistic Regression)
 http://www.ai-start.com/ml2014/html/week3.html
+![image](https://github.com/Hayden-z/ML/tree/master/images)
+ 
