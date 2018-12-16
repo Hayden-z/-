@@ -12,3 +12,7 @@ http://www.ai-start.com/ml2014/html/week3.html
 ![image](https://github.com/Hayden-z/ML/blob/master/images/6590923ac94130a979a8ca1d911b68a3.png)
  
 ![image](https://github.com/Hayden-z/ML/blob/master/images/eb69baa91c2fc6e7dd8ebdf6c79a6a6f.png)
+
+![image](https://github.com/Hayden-z/ML/blob/master/images/QQ20181216-183134.png)
+        
+      
